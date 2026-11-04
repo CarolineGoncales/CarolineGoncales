@@ -60,7 +60,6 @@ Estou sempre estudando, experimentando e ampliando o que temos de melhor.
 - PostgreSQL e SQL
 - Engenharia de Dados e BI
 - Inteligência Artificial
-- Segurança da Informação
 - Monitoramento e Observabilidade
 - Arquitetura de Sistemas
 - Projetos
@@ -78,11 +77,11 @@ Estou sempre estudando, experimentando e ampliando o que temos de melhor.
 
 ## Meus projetos e iniciativas
 
-### CPG Technology Consulting
+### C P G Technology Consulting
 
 Minha iniciativa de consultoria em tecnologia, projetos e desenvolvimento de soluções. Um espaço para transformar conhecimento e experiência em soluções que gerem valor, seja para empresas ou pessoas físicas.
 
-### CPG Estude Comigo
+### C P G Estude Comigo
 
 Sou fundadora e idealizadora da CPG Estude Comigo, uma plataforma de capacitação profissional nas áreas de Tecnologia, Dados e Projetos.
 
