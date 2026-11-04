@@ -77,11 +77,10 @@ Estou sempre estudando, experimentando e ampliando o que temos de melhor.
 
 ## Meus projetos e iniciativas
 
-### C P G Technology Consulting
 
-Minha iniciativa de consultoria em tecnologia, projetos e desenvolvimento de soluções. Um espaço para transformar conhecimento e experiência em soluções que gerem valor, seja para empresas ou pessoas físicas.
+Minha iniciativa de consultoria em tecnologia, projetos e desenvolvimento de soluções começou na CPG. Um espaço para transformar conhecimento e experiência em soluções que gerem valor, seja para empresas ou pessoas físicas.
 
-### C P G Estude Comigo
+### C P G Estude Comigo.
 
 Sou fundadora e idealizadora da CPG Estude Comigo, uma plataforma de capacitação profissional nas áreas de Tecnologia, Dados e Projetos.
 
@@ -146,18 +145,6 @@ Por aqui, compartilho:
 - Desafios de infraestrutura.
 - Documentações e arquiteturas.
 - Materiais de estudo.
-
-
-##  Minha atividade no GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarolineGoncales&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolineGoncales&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=CarolineGoncales&theme=tokyonight" />
-</p>
 
 ---
 
