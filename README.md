@@ -12,7 +12,7 @@ A pergunta abaixo é padrão, mas a resposta não é tanto assim.
 
 ## Quem sou eu?
 
-Sou curiosa por natureza. Gosto de entender como as coisas funcionam, descobrir novas possibilidades e buscar conhecimento constantemente, independente da área.
+Tenho curiosidade por natureza. Gosto de entender como as coisas funcionam, descobrir novas possibilidades e buscar conhecimento constantemente, independente da área.
 
 Acredito que aprender não deve ser apenas uma necessidade profissional, mas um hábito para a vida inteira.
 
@@ -96,9 +96,9 @@ Meu objetivo é aproximar o conhecimento das pessoas e mostrar que aprender tecn
 
 ##  Meu laboratório de ideias e aprendizado
 
-Este GitHub é muito mais do que um portfólio. É meu espaço de experimentação, construção e compartilhamento.
+Este GitHub é muito mais do que um portfólio. É meu espaço de experimentação, construção e compartilhamento. Eu aprendi e quero que você aprenda também.
 
-Aqui gosto de registrar o que estudo, desenvolver projetos, testar ferramentas, documentar soluções e criar materiais que também possam ajudar outras pessoas. Alguns dão certo. Outros, dão errado. Mas, no fim, todos dão certo porque sou teimosa.
+Aqui gosto de registrar o que estudei (e estudo), desenvolver projetos, testar ferramentas, documentar soluções e criar materiais que também possam ajudar outras pessoas. Alguns dão certo. Outros, dão errado. Mas, no fim, todos dão certo porque sou teimosa.
 
 Alguns dos laboratórios que estou desenvolvendo:
 
@@ -113,10 +113,10 @@ Alguns dos laboratórios que estou desenvolvendo:
 
 ---
 
-## 💻 Projetos que estou construindo
+## 💻 Alguns projetos que estou construindo/ construi
 
 ### CPG Estude Comigo
-Uma plataforma de capacitação profissional em Tecnologia, Dados e Projetos.
+Uma plataforma de capacitação profissional em Tecnologia, Dados e Projetos. Com várias trilhas, materiais escritos e gravados, de criação própria.
 
 ### Busca Preços
 Uma solução tecnológica para pesquisa e comparação de preços, aproximando consumidores e mercados.
@@ -125,7 +125,7 @@ Uma solução tecnológica para pesquisa e comparação de preços, aproximando 
 Suporte júridico para advogados, com automações variadas e suporte interno.
 
 ### Garagem dos Fundos
-Um projeto que reúne desenvolvimento web, funcionalidades administrativas e soluções para gestão.
+Um projeto que reúne desenvolvimento web, funcionalidades administrativas e soluções para gestão de vendas.
 
 Gosto de construir projetos que resolvam problemas reais. Cada um deles representa uma oportunidade de aprender, experimentar e evoluir.
 
